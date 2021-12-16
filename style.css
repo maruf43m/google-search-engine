@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+    background-color: rgb(31, 31, 31);
+}
+
+img {
+    margin: 100px 0px 0px 500px ;
+}
+.ser {
+    border: 1px solid grey;
+    height: 50px;
+    width: 40%;
+    border-radius: 25px;
+    padding: 15px;
+    margin-left: 400px;
+}
+
+.fa-search {
+    color: grey;
+    width: 5%;
+}
+
+.serach {
+    width: 90%;
+    border: 0px solid ;
+}
+
+button {
+    height: 40px;
+    width: 120px;
+    margin-top: 50px;
+    color: white;
+    background-color: grey;
+    border: 0px solid;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.but {
+    margin-left: 500px;
+}
+
+p {
+    color: white;
+    margin-left: 50px;
+}
+
+a {
+    text-decoration: none;
+}
